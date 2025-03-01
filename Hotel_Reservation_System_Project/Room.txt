@@ -1,0 +1,3 @@
+2,double,false,1000,bath
+7,double,true,1000,bed
+1,double,true,1000,bath
